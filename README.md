@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @534nH
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning C#, Python.
+- 👀 I’m interested development.
+- 🌱 I’m currently learning C++.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
